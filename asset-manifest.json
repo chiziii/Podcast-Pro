@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Podcast-Pro/static/css/main.aefc2812.chunk.css",
-    "main.js": "/Podcast-Pro/static/js/main.496e6296.chunk.js",
-    "main.js.map": "/Podcast-Pro/static/js/main.496e6296.chunk.js.map",
+    "main.css": "/Podcast-Pro/static/css/main.e0681e0b.chunk.css",
+    "main.js": "/Podcast-Pro/static/js/main.5651ac97.chunk.js",
+    "main.js.map": "/Podcast-Pro/static/js/main.5651ac97.chunk.js.map",
     "runtime-main.js": "/Podcast-Pro/static/js/runtime-main.0fb4d855.js",
     "runtime-main.js.map": "/Podcast-Pro/static/js/runtime-main.0fb4d855.js.map",
-    "static/js/2.b82930fa.chunk.js": "/Podcast-Pro/static/js/2.b82930fa.chunk.js",
-    "static/js/2.b82930fa.chunk.js.map": "/Podcast-Pro/static/js/2.b82930fa.chunk.js.map",
+    "static/js/2.f217465b.chunk.js": "/Podcast-Pro/static/js/2.f217465b.chunk.js",
+    "static/js/2.f217465b.chunk.js.map": "/Podcast-Pro/static/js/2.f217465b.chunk.js.map",
     "index.html": "/Podcast-Pro/index.html",
-    "precache-manifest.7a44888b9aad3c1cc4488007764e4b98.js": "/Podcast-Pro/precache-manifest.7a44888b9aad3c1cc4488007764e4b98.js",
+    "precache-manifest.9f961fbac393752b6f89184abfd626d4.js": "/Podcast-Pro/precache-manifest.9f961fbac393752b6f89184abfd626d4.js",
     "service-worker.js": "/Podcast-Pro/service-worker.js",
-    "static/css/main.aefc2812.chunk.css.map": "/Podcast-Pro/static/css/main.aefc2812.chunk.css.map",
-    "static/js/2.b82930fa.chunk.js.LICENSE.txt": "/Podcast-Pro/static/js/2.b82930fa.chunk.js.LICENSE.txt",
+    "static/css/main.e0681e0b.chunk.css.map": "/Podcast-Pro/static/css/main.e0681e0b.chunk.css.map",
+    "static/js/2.f217465b.chunk.js.LICENSE.txt": "/Podcast-Pro/static/js/2.f217465b.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Podcast-Pro/static/media/Helvetica.1b580d98.ttf",
-    "static/media/RecOne.png": "/Podcast-Pro/static/media/RecOne.a85aa8bc.png",
-    "static/media/RecTwo.png": "/Podcast-Pro/static/media/RecTwo.d0285caf.png"
+    "static/media/RecOne.png": "/Podcast-Pro/static/media/RecOne.821abc3d.png",
+    "static/media/RecTwo.png": "/Podcast-Pro/static/media/RecTwo.2c6230ea.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0fb4d855.js",
-    "static/js/2.b82930fa.chunk.js",
-    "static/css/main.aefc2812.chunk.css",
-    "static/js/main.496e6296.chunk.js"
+    "static/js/2.f217465b.chunk.js",
+    "static/css/main.e0681e0b.chunk.css",
+    "static/js/main.5651ac97.chunk.js"
   ]
 }
