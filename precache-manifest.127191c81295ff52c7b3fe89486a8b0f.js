@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ebf9a00ef615157ea58ea6aa7d820b3",
+    "revision": "d058669f55864595e679abff1fe5573d",
     "url": "/Podcast-Pro/index.html"
   },
   {
